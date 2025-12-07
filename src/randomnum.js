@@ -1,11 +1,9 @@
 import readlineSync from 'readline-sync'
 import userGreeting from '../src/cli.js'
+import crypto from 'crypto'
 
 const rules = () => {
-  const max = 100
-  // sonarignore:start
-  const num = Math.floor(Math.random() * max)
-  // sonarignore:end
+  const num = crypto.randomInt(0, 100)
 
   console.log(`Answer "yes" if the number is even, otherwise answer "no".`)
   console.log(`Questions: ${num}`)
