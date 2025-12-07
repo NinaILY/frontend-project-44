@@ -3,9 +3,9 @@ import userGreeting from '../src/cli.js'
 
 const rules = () => {
   const max = 100
-  // Используем Math.random() только для генерации случайного числа в игре,
-  // это НЕ криптографически безопасная операция, используется исключительно для игровой логики
+  // sonarignore:start
   const num = Math.floor(Math.random() * max)
+  // sonarignore:end
 
   console.log(`Answer "yes" if the number is even, otherwise answer "no".`)
   console.log(`Questions: ${num}`)
