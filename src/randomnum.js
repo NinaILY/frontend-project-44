@@ -3,6 +3,8 @@ import userGreeting from '../src/cli.js'
 
 const rules = () => {
   const max = 100
+  // Используем Math.random() только для генерации случайного числа в игре,
+  // это НЕ криптографически безопасная операция, используется исключительно для игровой логики
   const num = Math.floor(Math.random() * max)
 
   console.log(`Answer "yes" if the number is even, otherwise answer "no".`)
