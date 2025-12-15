@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
-import { answerUser } from '../src/randomnum.js'
+import { answerUser } from '../src/index.js'
+import checkEvenNumb from '../games/oddeven.js'
 
-console.log('Welcome to the Brain Games!')
-
-answerUser()
+answerUser(checkEvenNumb, `Answer "yes" if the number is even, otherwise answer "no".`)
