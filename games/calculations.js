@@ -4,7 +4,7 @@ export default () => {
   const firstNum = randomNumber()
   const secondNum = randomNumber()
   const listCalc = ['+', '-', '*']
-  const indexList = randomNumber(listCalc.length)
+  const indexList = randomNumber(0, listCalc.length)
   const randomCalc = listCalc[indexList]
   let answer
 

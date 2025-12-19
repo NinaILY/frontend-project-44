@@ -5,3 +5,4 @@
 [DemoBrain-even](https://asciinema.org/a/XHGUcu1pe8abfzIbLpJhVZ5Pt)
 [DemoBrain-calc](https://asciinema.org/a/P2zv1VXqsu9YK874V15DBbEpF)
 [DemoBrain-gcd](https://asciinema.org/a/fP2hjueFW06Yp2pww2mhI0AB1)
+[DemoBrain-progression](https://asciinema.org/a/tvjg0TNYdIeHxnWMnV04qQWi2)

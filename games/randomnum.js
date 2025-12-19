@@ -1,6 +1,6 @@
 import crypto from 'crypto'
 
-const randomNumber = (max = 100, min = 0) => {
+const randomNumber = (min = 0, max = 100) => {
   return crypto.randomInt(min, max)
 }
 
