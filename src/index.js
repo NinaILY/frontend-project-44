@@ -23,9 +23,8 @@ const answerUser = (makeRound, rulesText) => {
       console.log('Correct!')
     }
     else {
-      console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${answer}.`)
-      console.log(`Let's try again, ${name}!`)
-      correctAnswerCount = 0
+      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${answer}'.`)
+      return console.log(`Let's try again, ${name}!`)
     }
   }
 
