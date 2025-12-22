@@ -2,8 +2,8 @@
 
 [![Actions Status](https://github.com/NinaILY/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/NinaILY/frontend-project-44/actions)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=NinaILY_frontend-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=NinaILY_frontend-project-44)
-[DemoBrain-even](https://asciinema.org/a/XHGUcu1pe8abfzIbLpJhVZ5Pt)
-[DemoBrain-calc](https://asciinema.org/a/P2zv1VXqsu9YK874V15DBbEpF)
-[DemoBrain-gcd](https://asciinema.org/a/fP2hjueFW06Yp2pww2mhI0AB1)
-[DemoBrain-progression](https://asciinema.org/a/tvjg0TNYdIeHxnWMnV04qQWi2)
-[DemoBrain-prime](https://asciinema.org/a/h2ia1VHVJ6oKxvtg33bZ2Rig5)
+[DemoBrain-even](https://asciinema.org/a/oYQbaR42eXcdYrKT9kHGhAERl)
+[DemoBrain-calc](https://asciinema.org/a/cYgj0JrYxqHQOeNruHESpDwce)
+[DemoBrain-gcd](https://asciinema.org/a/wmbm4LPXKN8WUkp9BecYjbNga)
+[DemoBrain-progression](https://asciinema.org/a/Vt3ZwrZ8SN33FMawCcbW0mIR4)
+[DemoBrain-prime](https://asciinema.org/a/Qt0Bi2NPtDCkS7jGTRGtv97vO)
