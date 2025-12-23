@@ -1,15 +1,21 @@
-### Hexlet tests and linter status:
-
-## Project discription:
+### Project discription:
 Brain Games - a set of console games
 
-## Requirements
+### Requirements
 - Node.js >= 18
 - npm
 
-## Installation
+### Installation
 npm install -g @hexlet/code
 
+### Commands for launching games
+- brain-even
+- brain-calc
+- brain-gcd
+- brain-progression
+- brain-prime 
+
+### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/NinaILY/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/NinaILY/frontend-project-44/actions)
 
@@ -24,3 +30,5 @@ npm install -g @hexlet/code
 [DemoBrain-progression](https://asciinema.org/a/Vt3ZwrZ8SN33FMawCcbW0mIR4)
 
 [DemoBrain-prime](https://asciinema.org/a/Qt0Bi2NPtDCkS7jGTRGtv97vO)
+
+
