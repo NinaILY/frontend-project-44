@@ -1,5 +1,5 @@
 ### Project discription:
-Brain Games - a set of console games
+Brain Games - a set of console games: checking for parity, calculator, GCD, arithmetic progression and Is it a prime number.
 
 ### Requirements
 - Node.js >= 18
