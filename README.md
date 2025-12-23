@@ -15,11 +15,7 @@ npm install -g @hexlet/code
 - brain-progression
 - brain-prime 
 
-### Hexlet tests and linter status:
-
-[![Actions Status](https://github.com/NinaILY/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/NinaILY/frontend-project-44/actions)
-
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=NinaILY_frontend-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=NinaILY_frontend-project-44)
+[Demo-Games](https://asciinema.org/a/QAm3FawdZU3ylo6wkZQw0t0HR)
 
 [DemoBrain-even](https://asciinema.org/a/oYQbaR42eXcdYrKT9kHGhAERl)
 
@@ -31,4 +27,8 @@ npm install -g @hexlet/code
 
 [DemoBrain-prime](https://asciinema.org/a/Qt0Bi2NPtDCkS7jGTRGtv97vO)
 
+### Hexlet tests and linter status:
 
+[![Actions Status](https://github.com/NinaILY/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/NinaILY/frontend-project-44/actions)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=NinaILY_frontend-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=NinaILY_frontend-project-44)
