@@ -6,9 +6,11 @@ Brain Games - a set of console games: checking for parity, calculator, GCD, arit
 - npm
 
 ### Installation
+```bash
 git clone https://github.com/NinaILY/frontend-project-44.git
 cd frontend-project-44
 npm install
+```
 
 ### Commands for launching games
 - brain-even
